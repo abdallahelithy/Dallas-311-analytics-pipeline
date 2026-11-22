@@ -106,3 +106,12 @@ The historical backfill script, `resume_history.py`, supports continuing an exis
 ## Project Purpose
 
 Built as a data analytics portfolio project to demonstrate practical experience with Python, SQL, data pipelines, data quality, and reporting.
+
+## Visualizations
+
+### Most Common Service Requests
+![Top Request Types](images/top_request_types.png)
+
+### Active Requests by Department
+![Active Requests](images/active_requests_by_department.png)
+
